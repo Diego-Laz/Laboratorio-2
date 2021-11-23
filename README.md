@@ -73,6 +73,20 @@ RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
 ![Corrientes tabla](https://user-images.githubusercontent.com/93835463/142963476-45e9f37c-a174-45ea-b212-8905a8606440.png)
 
+VIDEOS:
+
+Circuito resistivo en proteus:
+
+https://www.youtube.com/watch?v=vHcH4GMkISU
+
+Medicion de corrientes en tinkercad
+
+https://www.youtube.com/watch?v=9qxpiwrg8n8
+
+Analisis de mallas de un circuito 
+
+https://www.youtube.com/watch?v=r_tr7t6PJnM
+
 CONCLUSIONES:
 
 -Los valores de las corrientes obtenidass por el analizis de mallas son bastante aproximados a los valores sumulados y experimentales. 
